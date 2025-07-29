@@ -91,6 +91,3 @@ Each sorting algorithm was implemented recursively, emphasizing divide-and-conqu
 
 ---
 
-If you're a beginner looking to learn DSA from scratch, feel free to fork this repo, study the code, and build your own implementations on top.
-
-Pull requests or suggestions are welcome.
